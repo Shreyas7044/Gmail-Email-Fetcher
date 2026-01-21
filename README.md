@@ -61,7 +61,7 @@ Emails were sent from another Gmail account and fetched successfully using this 
 ---
 
 ## 📸 Screenshot
-![Application Screenshot]()
+![Application Screenshot](Gmail-Email-Fetcher/screenshot.png)
 
 ---
 
